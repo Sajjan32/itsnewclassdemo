@@ -18,7 +18,7 @@ public class Literals {
 		
 		//String literal
 		String s ="kjfljdlfjlf";
-		string sw ="a";
+		String sw ="a";
 				// int literal
 		
 		//null literal
